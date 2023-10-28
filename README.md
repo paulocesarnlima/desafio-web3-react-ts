@@ -13,7 +13,7 @@
 
 ---
 
-O Desafio da <strong>Stack X</strong>  tarefa do Módulo WEB 3, ministrada pelo professor Gabriel, que consiste em desenvolver Lading Page, utilizando <strong>ReactJS </strong> +<strong> Styled Components</strong> com <strong> TypeScript</strong>, e enviar eventos pelos botões trocando a linguagem do texto apresentado de acordo com o botão selecionado.
+O Desafio da <strong>Stack X</strong>  tarefa do Módulo WEB 3, ministrado pelo professor Gabriel, que consiste em desenvolver uma Lading Page, utilizando <strong>ReactJS </strong> +<strong> Styled Components</strong> com <strong> TypeScript</strong>, e enviar eventos pelos botões trocando a linguagem do texto apresentado de acordo com o botão selecionado.
 
 
 
